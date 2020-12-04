@@ -33,7 +33,6 @@ public class Abuelas_Falsas {
                 }
             }
             
-            
             System.out.println(esAbuela ? "VERDADERA" : "FALSA");
             numeroPruebas--;
             
