@@ -13,7 +13,6 @@ public class Abuelas_Falsas {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
-        
         int numeroPruebas = scan.nextInt(); 
         
         while ( numeroPruebas > 0 ) {
